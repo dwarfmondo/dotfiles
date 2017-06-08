@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Handlebars"
+	],
+	"installed_packages":
+	[
+		"Dayle Rees Color Schemes",
+		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
+		"Emmet",
+		"ERB Snippets",
+		"Handlebars",
+		"nginx",
+		"Package Control",
+		"Ruby on Rails snippets",
+		"Sass",
+		"SublimeERB",
+		"Theme - Soda"
+	]
+}
