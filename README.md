@@ -7,3 +7,7 @@
 5. Run `install.sh` to start the installation
 6. Restore databases
 7. Party!
+
+### Step 3 and 4 Details
+* git clone https://github.com/dwarfmondo/dotfiles.git ~/.dotfiles 
+* cd ~/.dotfiles
