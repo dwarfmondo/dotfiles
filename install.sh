@@ -14,6 +14,10 @@ brew update
 brew tap homebrew/bundle
 brew bundle
 
+# Move sublime settings files
+yes | cp -rf $PWD/sublime-text/Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Package\ Control.sublime-settings
+yes | cp -rf $PWD/sublime-text/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings
+
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
