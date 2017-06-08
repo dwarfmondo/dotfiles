@@ -5,6 +5,5 @@
 3. Clone this repo into `~/.dotfiles`
 4. Change into the dotfiles directory `cd ~/.dotfiles`
 5. Run `install.sh` to start the installation
-6. Update `~/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings`
-7. Update `~/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings`
-8. Party!
+6. Restore databases
+7. Party!
