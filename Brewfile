@@ -8,7 +8,6 @@ tap 'homebrew/bundle'
 tap 'homebrew/dupes'
 
 # Binaries
-brew 'apple-gcc42'
 brew 'autoconf'
 brew 'ghostscript'
 brew 'git'
@@ -59,7 +58,6 @@ cask 'font-source-sans-pro'
 # Mac App Store apps
 mas '1Password', id: 443987910
 mas 'Bear', id: 1091189122
-mas 'Caffeine', id: 411246225
 mas 'GIPHY CAPTURE', id: 668208984
 mas 'iMovie', id: 408981434
 mas 'Keynote', id: 409183694
