@@ -14,6 +14,8 @@ brew update
 brew tap homebrew/bundle
 brew bundle
 
+brew link imagemagick@6 --force
+
 # Move sublime settings files
 yes | cp -rf $PWD/sublime-text/Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Package\ Control.sublime-settings
 yes | cp -rf $PWD/sublime-text/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings
