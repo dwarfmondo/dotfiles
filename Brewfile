@@ -13,7 +13,7 @@ brew 'ghostscript'
 brew 'git'
 brew 'libtool'
 brew 'mas'
-brew 'imagemagick'
+brew 'imagemagick@6' # version 6 works with rmagick
 brew 'node'
 brew 'openssl'
 brew 'postgresql', restart_service: true
