@@ -1,24 +1,18 @@
 {
-	"binary_file_patterns":
-	[
-		"*.scssc"
-	],
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-	"drag_text": false,
+	"color_scheme": "Packages/Theme - City Lights/City-Lights.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
-	"font_size": 13.0,
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Handlebars",
-		"Vintage"
+		"Vintage",
 	],
 	"save_on_focus_lost": true,
-	"soda_classic_tabs": true,
+	"show_definitions": false,
 	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "City-Lights.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"auto_complete_commit_on_tab": true,
 }
